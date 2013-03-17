@@ -1887,7 +1887,7 @@ if prefer :railsapps, 'rails-stripe-membership-saas'
 
   after_everything do
     say_wizard "recipe running after 'bundle install'"
-    repo = 'https://raw.github.com/RailsApps/rails-stripe-membership-saas/master/'
+    repo = 'https://raw.github.com/elgalu/rails-stripe-membership-saas/master/'
 
     # >-------------------------------[ Clean up starter app ]--------------------------------<
 
